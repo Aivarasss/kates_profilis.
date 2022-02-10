@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+	box-sizing:border-box;
+}
+.foto{
+	width:200px;
+	height:200px;
+	border-radius: 100%;
+	background-image:url(kate3.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size: cover;
+	margin:0 auto;
+}
+.f5{
+	width:300px;
+	margin-top: 70px;
+	margin-left:580px;
+	font-size:20px;
+}
+.f1{
+	margin-left:600px;
+	margin-bottom: 70px;
+}
